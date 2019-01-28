@@ -9,7 +9,7 @@ class Header extends Component {
         return (
             <div className="header__container">
                 <span>
-                    <h2>{this.props.data || 'Ola Attrtion analysis'}</h2>
+                    <h2>{this.props.data || 'Ola Attrition analysis'}</h2>
                 </span>
             </div>
         );
